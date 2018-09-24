@@ -18,7 +18,7 @@ All reads were mapped for three samples from a single control individual: NeuN+,
 
 ```r
 tissues <- c("NeuN_pl", "NeuN_mn", "muscle")
-fai <- get.fai()
+fai <- get.fai("~/data/GRCh37/karyotypic-order/Homo_sapiens.GRCh37.dna.fa.fai")
 chromosomes <- grep("^GL", fai$contig, value = TRUE, invert = TRUE)
 rd.genome <- get.read.depths(fai, tissues)
 rd.repres <- get.read.depths(fai, tissues, suffices = "chr1_119,500,001-121,500,000")
@@ -36,7 +36,6 @@ rd.repres <-
                    }))
 rd.repres.100 <- rd.repres[seq(1, nrow(rd.repres), by = 100), ] # for test purposes
 rd.genome.100 <- rd.genome[seq(1, nrow(rd.genome), by = 100), ] # for test purposes
-fastaix <- "~/data/GRCh37/dna/Homo_sapiens.GRCh37.dna.fa.fai"
 ```
 
 
