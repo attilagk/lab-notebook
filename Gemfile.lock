@@ -271,15 +271,15 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-analytics
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-paginate
   jekyll-scholar
   jekyll-theme-leap-day
-  minima (~> 2.0)
+  minima
   octokit
 
 RUBY VERSION
-   ruby 2.5.5p157
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
