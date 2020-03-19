@@ -15,6 +15,10 @@ All reads were mapped for three samples from a single control individual: NeuN+,
 ## Loading required package: methods
 ```
 
+```
+## Loading required package: RColorBrewer
+```
+
 
 ```r
 tissues <- c("NeuN_pl", "NeuN_mn", "muscle")
@@ -64,5 +68,19 @@ xyplot(frequency ~ depth | tissue, groups = tissue, data = depth.hist, type = "s
 <img src="{{ site.baseurl }}/projects/bsm/R/2017-05-24-alignment-stats/figure/read-depth-nonchromosomal-log-1.png" title="plot of chunk read-depth-nonchromosomal-log" alt="plot of chunk read-depth-nonchromosomal-log" width="700px" />
 
 <img src="{{ site.baseurl }}/projects/bsm/R/2017-05-24-alignment-stats/figure/read-depth-nonchromosomal-1.png" title="plot of chunk read-depth-nonchromosomal" alt="plot of chunk read-depth-nonchromosomal" width="700px" />
+
+
+## Figures for presentations
+
+
+```r
+combined.depth.plot(x = rd.g, y = depth.hist, sel.contig.ix = c(22, 23, 24))
+```
+
+```
+## Warning in formals(fun): argument is not a function
+```
+
+<img src="{{ site.baseurl }}/projects/bsm/R/2017-05-24-alignment-stats/figure/combined-depth-plot-1.png" title="plot of chunk combined-depth-plot" alt="plot of chunk combined-depth-plot" width="700px" />
 <!-- MathJax scripts -->
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
