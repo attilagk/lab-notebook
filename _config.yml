@@ -20,7 +20,7 @@ markdown: kramdown
 #theme: jekyll-theme-dinky
 theme: jekyll-theme-cayman
 
-gems: [jekyll-paginate, jekyll/scholar]
+plugins: [jekyll-paginate, jekyll/scholar]
 
 paginate: 10
 
