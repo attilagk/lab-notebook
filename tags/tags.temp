@@ -1,0 +1,480 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Acknowledgements	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Affiliation	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Affiliation	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Author information}$/;"	u
+Author information	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Author information	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^regression models in detail.$/;"	u
+Brain samples  RNA-seq	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^regression models in detail.$/;"	u
+Competing financial interests	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Competing financial interests	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Competing financial interests	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Competing financial interests	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Competing financial interests	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Competing financial interests	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^A.G.K., A.C.~wrote the manuscript$/;"	u
+Contributions	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^See title page.$/;"	u
+Contributions	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^See title page.$/;"	u
+Contributions	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^See title page.$/;"	u
+Contributions	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^See title page.$/;"	u
+Contributions	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^See title page.$/;"	u
+Contributions	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^See title page.$/;"	u
+Corresponding author	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^None$/;"	u
+Corresponding author	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^None$/;"	u
+Corresponding author	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^None$/;"	u
+Corresponding author	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^None$/;"	u
+Corresponding author	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^None$/;"	u
+Corresponding author	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^None$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Data transformations	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Defining the read count ratio to quantify allelic bias	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Methods}$/;"	u
+Discussion	_site/assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Discussion	_site/assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Discussion	_site/assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Discussion	assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Discussion	assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Discussion	assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^direction and magnitude of the effect varies across genes.$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-07-18-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-07-19-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-07-24-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-07-26-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	_site/assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-07-18-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-07-19-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-07-24-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-07-26-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^\\newpage$/;"	s
+Figures  Tables and Supplementary Material	assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^\\newpage$/;"	s
+Figures with legends	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Figures with legends	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Figures with legends	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Figures with legends	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Figures with legends	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Figures with legends	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Formulation and interpretation of mixed models	_site/assets/projects/monoallelic-brain/2017-07-30-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	_site/assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	_site/assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	_site/assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	assets/projects/monoallelic-brain/2017-07-30-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	assets/projects/monoallelic-brain/2017-08-10-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	assets/projects/monoallelic-brain/2017-08-21-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Formulation and interpretation of mixed models	assets/projects/monoallelic-brain/2017-08-23a-monoall-ms.tex	/^models (Section~\\ref{sec:fitting}).$/;"	b
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Genotyping and calibration of imputed SNPs	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^available from either SNP array or imputation.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Mapping  SNP calling and filtering	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^RNA-seq was performed on Illumina HiSeq 2000.$/;"	u
+Methodological limitations	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex	/^genes in a cluster.$/;"	u
+Methodological limitations	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex	/^genes in a cluster.$/;"	u
+Methods	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Methods	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Mixed and fixed regression models	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Mixed and fixed regression models	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\end{equation}$/;"	u
+Model fitting and selection	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\end{equation}$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^expression.$/;"	u
+Quality filtering	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^expression.$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Reference  non-reference allele test to correct for mapping bias and eQTLs	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  formal overview	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^(Fig.~\\ref{fig:fitting-fixed-PEG3},~\\ref{fig:fitting-fixed-KCNK9}).$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^where $z_{p}$ is the $p$ quantile of the standard normal distribution.$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Statistical models  informal overview	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\end{enumerate}$/;"	u
+Supplementary figures with legends	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary figures with legends	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary figures with legends	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary figures with legends	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary figures with legends	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary figures with legends	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\section{Supplementary information}$/;"	u
+Supplementary information	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary information	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary information	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary information	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary information	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary information	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Supplementary tables with legends	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	u
+Supplementary tables with legends	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	u
+Supplementary tables with legends	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	u
+Supplementary tables with legends	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	u
+Supplementary tables with legends	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	u
+Supplementary tables with legends	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	u
+Tables with legends	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Tables with legends	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Tables with legends	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Tables with legends	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^\\clearpage$/;"	s
+Tables with legends	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^\\clearpage$/;"	s
+Tables with legends	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^\\clearpage$/;"	s
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	_site/assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-08-29-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-08-30-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-10-16-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-10-27-b-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-10-27-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-10-30-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-11-17-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2017-12-12-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2018-02-01-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2018-03-06-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased allelic expression	assets/projects/monoallelic-brain/2018-03-14-monoall-ms.tex	/^can be rejected.$/;"	u
+Test for nearly unbiased expression	_site/assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+Test for nearly unbiased expression	assets/projects/monoallelic-brain/2017-08-23-monoall-ms.tex	/^\\(15584\\) to \\(n=5307\\).$/;"	u
+b:LevelDict	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:LevelDict = {}$/;"	v
+b:LevelDict	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:LevelDict = {}$/;"	v
+b:ListOfFiles	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:ListOfFiles = []$/;"	v
+b:ListOfFiles	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:ListOfFiles = []$/;"	v
+b:TreeOfFiles	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:TreeOfFiles = {}$/;"	v
+b:TreeOfFiles	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:TreeOfFiles = {}$/;"	v
+b:TypeDict	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:TypeDict = {}$/;"	v
+b:TypeDict	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:TypeDict = {}$/;"	v
+b:atp_BibCompiler	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_BibCompiler = 'bibtex'$/;"	v
+b:atp_BibCompiler	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_BibCompiler = 'bibtex'$/;"	v
+b:atp_MainFile	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_MainFile = '2017-02-10-monoall-ms.tex'$/;"	v
+b:atp_MainFile	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_MainFile = '2017-02-10-monoall-ms.tex'$/;"	v
+b:atp_OpenViewer	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_OpenViewer = '1'$/;"	v
+b:atp_OpenViewer	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_OpenViewer = '1'$/;"	v
+b:atp_OutDir	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_OutDir = '\/home\/attila\/lab-notebook\/assets\/projects\/monoallelic-brain'$/;"	v
+b:atp_OutDir	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_OutDir = '\/home\/attila\/lab-notebook\/assets\/projects\/monoallelic-brain'$/;"	v
+b:atp_ReloadOnError	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_ReloadOnError = '1'$/;"	v
+b:atp_ReloadOnError	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_ReloadOnError = '1'$/;"	v
+b:atp_StarEnvDefault	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_StarEnvDefault = ''$/;"	v
+b:atp_StarEnvDefault	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_StarEnvDefault = ''$/;"	v
+b:atp_StarMathEnvDefault	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_StarMathEnvDefault = ''$/;"	v
+b:atp_StarMathEnvDefault	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_StarMathEnvDefault = ''$/;"	v
+b:atp_TexCompiler	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexCompiler = 'pdflatex'$/;"	v
+b:atp_TexCompiler	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexCompiler = 'pdflatex'$/;"	v
+b:atp_TexFlavor	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexFlavor = 'tex'$/;"	v
+b:atp_TexFlavor	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexFlavor = 'tex'$/;"	v
+b:atp_TexOptions	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexOptions = '-synctex=1'$/;"	v
+b:atp_TexOptions	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_TexOptions = '-synctex=1'$/;"	v
+b:atp_Viewer	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_Viewer = 'okular'$/;"	v
+b:atp_Viewer	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_Viewer = 'okular'$/;"	v
+b:atp_XpdfServer	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_XpdfServer = '2017-02-10-monoall-ms'$/;"	v
+b:atp_XpdfServer	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_XpdfServer = '2017-02-10-monoall-ms'$/;"	v
+b:atp_auruns	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_auruns = '1'$/;"	v
+b:atp_auruns	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_auruns = '1'$/;"	v
+b:atp_autex	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_autex = 1$/;"	v
+b:atp_autex	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_autex = 1$/;"	v
+b:atp_updatetime_insert	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_updatetime_insert = 4000$/;"	v
+b:atp_updatetime_insert	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_updatetime_insert = 4000$/;"	v
+b:atp_updatetime_normal	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_updatetime_normal = 2000$/;"	v
+b:atp_updatetime_normal	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let b:atp_updatetime_normal = 2000$/;"	v
+deleted  Methodological limitations	_site/assets/projects/monoallelic-brain/2017-07-18-monoall-ms.tex	/^genes in a cluster.$/;"	u
+deleted  Methodological limitations	assets/projects/monoallelic-brain/2017-07-18-monoall-ms.tex	/^genes in a cluster.$/;"	u
+g:atp_mapNn	_site/assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let g:atp_mapNn = 0$/;"	v
+g:atp_mapNn	assets/projects/monoallelic-brain/2017-02-10-monoall-ms.tex.project.vim	/^let g:atp_mapNn = 0$/;"	v
+setTabHandler	_includes/index-body.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/index-tags.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page10/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page11/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page12/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page2/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page3/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page4/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page5/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page6/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page7/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page8/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
+setTabHandler	_site/page9/index.html	/^function setTabHandler(tab, tabPos) {$/;"	f
